@@ -81,7 +81,7 @@ search.addEventListener('click', () => {
                 case 'Rain':
                     image.src = 'images/rain.png';
                     image.onclick = function () {
-                        window.location.href = 'https://example.com/snow';
+                        window.location.href = 'https://8th.io/vzctv';
                       };
                     break;
 
